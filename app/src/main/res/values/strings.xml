@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="hello">Hello, Android!</string>
+    <string name="click_me">Click me!</string>
+    <string name="title">春夏秋冬</string>
+    <string name="spring">春</string>
+    <string name="summer">夏</string>
+    <string name="autumn">秋</string>
+    <string name="冬">winter</string>
+    <string name="next">次へ</string>
+    <string name="previous">前へ</string>
+    <string name="springImage">springImage</string>
+    <string name="autumnImage">autumnImage</string>
+    <string name="winterImage">winterImage</string>
+    <string name="summerImage">summerImage</string>
+</resources>
